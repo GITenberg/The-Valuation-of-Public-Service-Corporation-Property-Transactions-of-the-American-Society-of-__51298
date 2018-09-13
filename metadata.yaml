@@ -1,0 +1,25 @@
+_repo: The-Valuation-of-Public-Service-Corporation-Property-Transactions-of-the-American-Society-of-__51298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riggs, Henry Earle
+    birthdate: 1865
+    gutenberg_agent_id: '46346'
+    url: http://www.gutenberg.org/2009/agents/46346
+description: ''
+gutenberg_issued: '2016-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcc 'TA'
+- !lcsh 'Railroads -- Valuation'
+- GITenberg
+title: "The Valuation of Public Service Corporation Property\r\nTransactions of the\
+  \ American Society of Civil Engineers,\r\nvol. LXXII, June, 1911, ASCE 1190"
+url: http://www.gutenberg.org/ebooks/51298
